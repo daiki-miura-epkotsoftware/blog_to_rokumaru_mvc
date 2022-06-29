@@ -1,1 +1,2 @@
-./env.php
+# env.phpを追跡対象から除外
+/env.php
